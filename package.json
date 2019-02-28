@@ -35,7 +35,9 @@
     "react-helmet": "^5.2.0",
     "react-highcharts": "^16.0.2",
     "react-perfect-scrollbar": "^1.4.2",
+    "react-powerplug": "^1.0.0",
     "recharts": "^1.5.0",
+    "redux-box": "^1.6.1",
     "store": "^2.0.12"
   },
   "devDependencies": {
